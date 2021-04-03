@@ -1,0 +1,11 @@
+{
+  "name": "vininh",
+  "version": "1.0.0",
+  "description": "tester 10:15",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ninhvv",
+  "license": "ISC"
+}
